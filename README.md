@@ -5,18 +5,16 @@
 
 <p align="center">
 Ancienne technicienne télécom devenue développeuse web en reconversion via l'école Holberton. <br>
-Vous m'avez peut-être déjà eu au téléphone pour un problème de box internet !
+
 
 J’ai quitté un poste stable pour apprendre un métier que je trouve à la fois exigeant, créatif, et profondément utile
 
-Avant de plonger dans ce monde, j’étais au service technique de Free. J’y ai appris l’écoute et la persévérance. Mais surtout, j’y ai compris que ce qui m’anime, c’est la résolution de problèmes avec une forte dose de créativité. Aujourd’hui, je développe mes compétences, tout en continuant de cultiver ma sensibilité pour le design et surtout, l’expérience utilisateur.
+Avant de plonger dans ce monde, j’étais au service technique de Free. J’y ai appris l’écoute et la persévérance. Mais surtout, j’y ai compris que ce qui m’anime, c’est la résolution de problèmes avec une forte dose de créativité.
+
+Aujourd’hui, je développe mes compétences, tout en continuant de cultiver ma sensibilité pour le design et surtout, l’expérience utilisateur.
 
 </p>
 
-
-<p align="center">
-Pendant des années, l'une de mes missions principales dans mon job : <strong>aider les gens</strong> !
-</p>
 
 <p align="center">
 J’aime aussi imprimer en 3D, courir des semi-marathons, faire des shootings photo<br>
