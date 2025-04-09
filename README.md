@@ -1,4 +1,4 @@
-<h1 align="center">Salut, moi c'est Molly ! 👋</h1>
+
 
 <p align="center">
 Ancienne technicienne télécom devenue développeuse web en reconversion via l'école Holberton. <br>
@@ -22,9 +22,7 @@ et organiser des murder parties 🕵️‍♀️
 
 ---
 
-## <p align="center">🧰 Stack</p>
 
-### <p align="center">💻 Langages</p>
 
 <p align="center">
   <img src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white" />
