@@ -103,6 +103,8 @@ et organiser des murder parties 🕵️‍♀️
 <p align="center">
   <img src="images/nettle.jpg" alt="Nettle and Bone" width="80" style="margin: 10px;" />
   <img src="images/assistant.png" alt="Assistant to the Villain" width="80" style="margin: 10px;" />
+  <img src="images/clubmauvaisjours.jpg" alt="Club des mauvais jours" width="80" style="margin: 10px;" />
+  <img src="images/lunefroidesurbabylone.png" alt="Club des mauvais jours" width="80" style="margin: 10px;" />
 </p>
 
 ---
