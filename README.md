@@ -85,7 +85,7 @@ et organiser des murder parties 🕵️‍♀️
 ## <p align="center">🛠️ Projets Holberton</p>
 
 <p align="center">
-<strong>HBNB</strong> : réalisation en binome d'un clone d'airbnb. Ca projet a été très stimulant, et m'a fait apprendre la gestion de base de données, continuer de me perfectionner en python et une petite partie front.
+<strong>HBNB</strong> : réalisation en binome d'un clone d'airbnb. Ce projet a été très stimulant, et m'a fait apprendre la gestion de base de données, continuer de me perfectionner en python et une petite partie front.
 </p>
 
 <p align="center">
